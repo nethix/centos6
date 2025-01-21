@@ -1,4 +1,4 @@
-name: Build and publish images
+name: Build and publish images (latest)
 
 permissions:
   packages: write
